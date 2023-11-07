@@ -6,7 +6,11 @@ const header = `
 / /_/ / ___ |/ / / /___   
  ____/_/  |_/_/ /_____/   
 just another text editor
-*/                          
+
+Thank u for using this!
+*/ 
+
+console.log(Hello World!)
 `;
 
 export { header };
