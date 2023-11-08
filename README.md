@@ -8,7 +8,7 @@
 - [Usage](#usage)
 - [Preview](#preview)
 - [Technologies](#technologies)
-- [Deployed App](#Deployed)
+- [Deployed App](#Deployed-App)
 - [Repo](#Repo)
 
 ## Overview
