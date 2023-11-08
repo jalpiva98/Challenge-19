@@ -63,7 +63,7 @@ This application is built with the following technologies:
 ## Acknowledgments
 This application was created as part of my coding bootcamp project.
 
-## Deployed app
+## Deployed-app
 https://jate-japv-496ca2d134a8.herokuapp.com/
 
 ## Repo
