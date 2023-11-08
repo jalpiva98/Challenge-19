@@ -8,8 +8,8 @@
 - [Usage](#usage)
 - [Preview](#preview)
 - [Technologies](#technologies)
-- [Deployed App](#Deployed app)
-- [Repo])(#Repo)
+- [Deployed App](#Deployed)
+- [Repo](#Repo)
 
 ## Overview
 The PWA Text Editor is a progressive web application that allows you to create, edit, and store text notes or code snippets with or without an internet connection. This application ensures reliable data retrieval for later use, making it a valuable tool for developers, students, or anyone in need of a versatile text editor.
